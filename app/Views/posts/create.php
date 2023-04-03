@@ -1,5 +1,5 @@
 <?= $this->extend('layouts/master');
-$this->section('title') ?> Create Post <?= $this->endSection() ?>
+$this->section('title') ?> Create Post Here <?= $this->endSection() ?>
 <?= $this->section('content') ?>
 
 <div class="container">
